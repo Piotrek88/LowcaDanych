@@ -1,0 +1,141 @@
+age;edu_level;fav_animals;fav_place;gender
+<18;Podstawowe;Brak ulubionych;;1.0
+25-34;Średnie;Psy;Nad wodą;0.0
+45-54;Wyższe;Psy;W lesie;0.0
+35-44;Średnie;Koty;W górach;0.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+25-34;Wyższe;Psy;W lesie;0.0
+25-34;Wyższe;Koty;W górach;0.0
+25-34;Wyższe;Brak ulubionych;W górach;0.0
+45-54;Wyższe;Psy;W górach;1.0
+18-24;Średnie;Koty;W górach;0.0
+35-44;Wyższe;Brak ulubionych;W górach;0.0
+25-34;Wyższe;Psy;W lesie;1.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+35-44;Średnie;Inne;W górach;0.0
+45-54;Wyższe;Inne;Nad wodą;0.0
+35-44;Średnie;Koty;Nad wodą;0.0
+>=65;Wyższe;Brak ulubionych;;0.0
+45-54;Wyższe;Psy;W górach;0.0
+35-44;Wyższe;Koty;;0.0
+45-54;Wyższe;Koty i Psy;Nad wodą;1.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+>=65;Wyższe;Brak ulubionych;W lesie;1.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+45-54;Średnie;Psy;Nad wodą;0.0
+45-54;Wyższe;Psy;W lesie;0.0
+35-44;Wyższe;Koty;W górach;0.0
+35-44;Wyższe;Koty;W górach;0.0
+25-34;Wyższe;Koty;W górach;1.0
+25-34;Wyższe;Koty;W górach;0.0
+55-64;Wyższe;Inne;;0.0
+35-44;Średnie;Psy;Nad wodą;1.0
+35-44;Wyższe;Koty;Nad wodą;0.0
+25-34;Średnie;Inne;Inne;0.0
+45-54;Średnie;Koty;Inne;0.0
+25-34;Średnie;Psy;Nad wodą;0.0
+25-34;Średnie;Inne;W górach;0.0
+35-44;Wyższe;Brak ulubionych;Nad wodą;0.0
+45-54;Średnie;Psy;W górach;0.0
+25-34;Wyższe;Psy;W górach;0.0
+45-54;Wyższe;Koty;W lesie;0.0
+35-44;Wyższe;Psy;W górach;
+35-44;Wyższe;Brak ulubionych;W lesie;0.0
+35-44;Średnie;Psy;Nad wodą;1.0
+45-54;Wyższe;Psy;Nad wodą;1.0
+45-54;Średnie;Psy;Nad wodą;0.0
+35-44;Wyższe;Inne;W górach;0.0
+45-54;Wyższe;Psy;Nad wodą;1.0
+unknown;Wyższe;Brak ulubionych;;
+>=65;Wyższe;Brak ulubionych;W górach;1.0
+45-54;Wyższe;Brak ulubionych;W górach;1.0
+45-54;Wyższe;Inne;W lesie;1.0
+25-34;Wyższe;Psy;Inne;1.0
+18-24;Wyższe;Brak ulubionych;W górach;0.0
+35-44;Wyższe;Psy;W lesie;0.0
+25-34;Średnie;Koty;W lesie;0.0
+55-64;Wyższe;Psy;W górach;0.0
+35-44;Wyższe;Psy;W górach;0.0
+35-44;Wyższe;Psy;W lesie;0.0
+35-44;Wyższe;Inne;Nad wodą;0.0
+45-54;Wyższe;Psy;W górach;0.0
+35-44;Wyższe;Inne;Nad wodą;0.0
+35-44;Średnie;Brak ulubionych;;1.0
+35-44;Wyższe;Koty i Psy;W górach;1.0
+35-44;Wyższe;Koty;W górach;0.0
+>=65;Wyższe;Brak ulubionych;W górach;0.0
+45-54;Wyższe;Inne;Inne;0.0
+45-54;Wyższe;Psy;Nad wodą;0.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+25-34;Wyższe;Psy;Nad wodą;1.0
+35-44;Wyższe;Inne;Nad wodą;1.0
+55-64;Wyższe;Psy;Nad wodą;0.0
+55-64;Wyższe;Psy;Nad wodą;0.0
+45-54;Wyższe;Koty i Psy;;0.0
+35-44;Wyższe;Psy;W górach;0.0
+35-44;Wyższe;Psy;W lesie;1.0
+55-64;Wyższe;Koty i Psy;Nad wodą;0.0
+35-44;Wyższe;Psy;;1.0
+25-34;Wyższe;Psy;W lesie;1.0
+35-44;Wyższe;Psy;;0.0
+25-34;Wyższe;Inne;W górach;0.0
+55-64;Wyższe;Psy;;0.0
+18-24;Średnie;Psy;W górach;0.0
+35-44;Wyższe;Psy;Nad wodą;1.0
+45-54;Wyższe;Psy;;0.0
+35-44;Wyższe;Inne;Inne;1.0
+45-54;Wyższe;Psy;Nad wodą;1.0
+35-44;Wyższe;Brak ulubionych;W górach;0.0
+45-54;Średnie;Psy;W górach;0.0
+25-34;Wyższe;Psy;Nad wodą;0.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+25-34;Wyższe;Inne;W lesie;0.0
+25-34;Średnie;Psy;W górach;0.0
+45-54;Średnie;Inne;W lesie;0.0
+unknown;Wyższe;Psy;Nad wodą;1.0
+35-44;Wyższe;Psy;W lesie;0.0
+45-54;Wyższe;Psy;W lesie;0.0
+55-64;Wyższe;Psy;W lesie;0.0
+35-44;Średnie;Psy;W lesie;1.0
+35-44;Wyższe;Psy;;0.0
+35-44;Wyższe;Psy;Nad wodą;1.0
+35-44;Wyższe;Brak ulubionych;Nad wodą;0.0
+35-44;Wyższe;Brak ulubionych;;0.0
+45-54;Średnie;Inne;Inne;0.0
+45-54;Średnie;Brak ulubionych;W górach;0.0
+55-64;Wyższe;Psy;Nad wodą;0.0
+35-44;Średnie;Psy;W górach;0.0
+35-44;Wyższe;Koty;W górach;1.0
+45-54;Wyższe;Psy;Nad wodą;1.0
+25-34;Średnie;Koty;W lesie;0.0
+45-54;Wyższe;Psy;Nad wodą;0.0
+45-54;Wyższe;Psy;Nad wodą;0.0
+35-44;Wyższe;Koty;W górach;0.0
+45-54;Wyższe;Psy;Inne;0.0
+45-54;Wyższe;Psy;W lesie;0.0
+25-34;Wyższe;Koty;;0.0
+45-54;Wyższe;Brak ulubionych;Nad wodą;0.0
+45-54;Wyższe;Inne;W lesie;0.0
+45-54;Wyższe;Psy;W lesie;0.0
+25-34;Wyższe;Psy;W górach;0.0
+45-54;Średnie;Inne;W górach;0.0
+18-24;Średnie;Psy;Nad wodą;0.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+45-54;Wyższe;Psy;W lesie;0.0
+>=65;Wyższe;Psy;Nad wodą;0.0
+35-44;Wyższe;Koty;W górach;0.0
+35-44;Wyższe;Psy;Inne;0.0
+45-54;Wyższe;Psy;;1.0
+45-54;Wyższe;Inne;Nad wodą;0.0
+35-44;Wyższe;Brak ulubionych;W lesie;0.0
+18-24;Średnie;Psy;W górach;0.0
+35-44;Wyższe;Psy;Nad wodą;0.0
+45-54;Wyższe;Koty;W lesie;0.0
+35-44;Wyższe;Inne;W górach;0.0
+55-64;Wyższe;Psy;Nad wodą;0.0
+35-44;Wyższe;Koty;W górach;0.0
+35-44;Wyższe;Psy;W górach;0.0
+45-54;Wyższe;Psy;W lesie;1.0
+35-44;Wyższe;Psy;Nad wodą;1.0
+18-24;Średnie;Inne;W górach;0.0
