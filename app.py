@@ -60,7 +60,7 @@ if not filtered_data.empty:
     ax.set_title('Liczba osób z wybranymi atrybutami')
     ax.set_xlabel(gender)
     ax.set_xticks([])
-    ax.set_ylabel('Liczba urzytkowników')
+    ax.set_ylabel('Liczba użytkowników')
     st.pyplot(fig)
 else:
     st.write("Brak danych spełniających wybrane kryteria.")
